@@ -10,3 +10,11 @@
     font-size: 20px;
     color: #ffffff;
 }
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+.topnav a.active {
+    background-color: #A9A9A9;
+    color: white;
+  }
