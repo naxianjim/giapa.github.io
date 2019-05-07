@@ -18,3 +18,7 @@
     background-color: #A9A9A9;
     color: white;
   }
+  body {
+    background-image: url("image.jpeg");
+    color: white;
+}
