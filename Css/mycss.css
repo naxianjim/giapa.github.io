@@ -18,9 +18,19 @@
     background-color: #A9A9A9;
     color: white;
   }
-  body {
+body {
     background-image: url("../Images/background.jpeg");
     color: white;
+    margin:0;
+    height:2000px;
+}
+.mytext{
+  position: absolute;
+  left: 25%;
+  top: 40%;
+  width: 50%;
+  text-align: center;
+  font-size: 18px;
 }
 .icon-bar {
   position: fixed;
@@ -38,13 +48,5 @@
   font-size: 20px;
 }
 .icon-bar a:hover {
-  background-color: #A9A9A9;
-}
-.mytext{
-  position: absolute;
-  left: 0;
-  top: 40%;
-  width: 100%;
-  text-align: center;
-  font-size: 18px;
+  background-color:#A9A9A9;
 }
