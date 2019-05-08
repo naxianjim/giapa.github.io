@@ -28,7 +28,7 @@ body {
 .mytext{
   position: absolute;
   left: 25%;
-  top: 40%;
+  top: 30%;
   width: 50%;
   text-align: center;
   font-size: 18px;
@@ -50,4 +50,28 @@ body {
 }
 .icon-bar a:hover {
   background-color:#A9A9A9;
+}
+.responsive {
+  width: 100%;
+  height: auto;
+}
+.emails:link{
+  color: white;
+  font-size: 24px;
+  text-decoration: none;
+}
+.emails:visited{
+  color: white;
+  font-size: 24px;
+  text-decoration: none;
+}
+.emails:hover{
+  color: #696969;
+  font-size: 24px;
+  text-decoration: none;
+}
+.emails:active{
+  color: #696969;
+  font-size: 24px;
+  text-decoration: none;
 }
