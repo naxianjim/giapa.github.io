@@ -1,3 +1,4 @@
+
 .topnav {
     background-color: #333;
     overflow: hidden;
@@ -23,6 +24,7 @@ body {
     color: white;
     margin:0;
     height:2000px;
+    font-family: Helvetica, sans-serif;
 }
 .mytext{
   position: absolute;
